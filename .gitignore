@@ -1,0 +1,6 @@
+Library/
+.DS_Store
+UserSettings/
+mono_crash.0.0.json
+third.sln
+Logs/
